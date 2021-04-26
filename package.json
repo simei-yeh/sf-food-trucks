@@ -1,0 +1,16 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "redfin take home challenge",
+  "main": "./main.js",
+  "scripts": {
+    "start": "node ./main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "inquirer": "^8.0.0",
+    "node": "^15.14.0"
+  }
+}
